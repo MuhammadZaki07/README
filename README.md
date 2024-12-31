@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! My name is Zaki and I am a student, from the city of Malang, Indonesia</h2>
 
-
 ###
 
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRjdXA2dXZxZm82NW54OWpkcWRhZWs0ankzcGcwaHIxN3V5aXB3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
@@ -8,6 +7,7 @@
 ###
 
 ###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -40,8 +40,6 @@
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
 </div>
 
-
-
 ###
 
 <div align="left">
@@ -62,11 +60,8 @@
   </a>
 </div>
 
-
 ###
 
-<br clear="both">![snake animation](https://github.com/MuhammadZaki07/MuhammadZaki07/blob/output/github-contribution-grid-snake2.svg)
-
-
+<br clear="both">![snake animation](https://github.com/MuhammadZaki07/README/raw/output/github-contribution-grid-snake2.svg)
 
 ###
